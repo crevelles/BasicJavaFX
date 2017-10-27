@@ -13,5 +13,6 @@
          </image>
     </ImageView>
       <Button layoutX="377.0" layoutY="240.0" mnemonicParsing="false" onAction="#handleClose" text="Cerrar" />
+      <Button layoutX="318.0" layoutY="240.0" mnemonicParsing="false" onAction="#setclip" text="recorte" />
   </children>
 </AnchorPane>
