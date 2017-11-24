@@ -12,7 +12,7 @@ import javafx.scene.effect.DropShadow;
 import javafx.scene.effect.GaussianBlur;
 import javafx.scene.image.*;
 import javafx.scene.layout.Pane;
-import javafx.scene.paint.Color;
+//import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.scene.shape.Ellipse;
 import javafx.scene.shape.Rectangle;
@@ -20,6 +20,15 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+
+
+/**
+ * 
+ * A <b>JavaFX - Ejemplo interfaz 2 ventamas </b>  
+ * @author Cristobal Revelles
+ * @version 1.0
+ * @see view.Controler
+ */
 public class Main extends Application {
 
 	private Pane mypane;
@@ -78,10 +87,6 @@ public class Main extends Application {
     
 
 
-    /**
-     * arranca la aplicación
-     * @param args
-     */
     
     public static void main(String[] args) {
         launch(args);

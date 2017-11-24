@@ -6,6 +6,14 @@ import javafx.scene.image.ImageView;
 import javafx.scene.shape.Circle;
 import javafx.scene.shape.Ellipse;
 
+
+/**
+ * 
+ * @author Cristobal Revelles
+ * @version 1.0
+ *
+ */
+
 public class Controler {
 	
 	@FXML
